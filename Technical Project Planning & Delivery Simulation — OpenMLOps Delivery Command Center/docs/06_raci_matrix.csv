@@ -1,0 +1,12 @@
+Deliverable,Project Manager,Product Owner,Engineering Lead,ML Lead,Data Lead,Security Lead,Operations Lead
+Project charter,A,C,C,C,C,I,I
+Requirements,R,A,C,C,R,I,I
+Data readiness,C,C,C,C,A,I,I
+ML experiment workflow,C,I,C,A,C,I,I
+Feature management,C,C,C,R,A,I,I
+Deployment architecture,C,I,A,R,C,C,C
+Security readiness,R,I,C,C,C,A,C
+UAT plan,R,A,C,C,C,I,C
+Go-live decision,R,A,C,C,C,C,C
+Handover plan,R,C,C,C,C,C,A
+Project closure,A,C,C,C,C,I,C

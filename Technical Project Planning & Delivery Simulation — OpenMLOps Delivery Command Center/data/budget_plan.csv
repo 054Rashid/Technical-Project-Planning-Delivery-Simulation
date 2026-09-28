@@ -1,0 +1,9 @@
+Cost_Category,Planned_USD,Actual_Simulated_USD,Variance_USD,Notes
+Project Management,22400,21800,600,Coordination governance reporting and ceremonies
+Engineering,42000,40500,1500,Architecture implementation and quality
+ML/Data,36000,35200,800,Data validation feature work and model lifecycle
+Platform/Infrastructure,28000,27100,900,Containerization Kubernetes and observability
+Security/Compliance,12000,11800,200,Security review and readiness activities
+Training/UAT,9000,8700,300,Business validation training and handover
+Contingency,18000,12500,5500,Reserved for delivery risks and approved changes
+Total,167400,157600,9800,Illustrative project budget only

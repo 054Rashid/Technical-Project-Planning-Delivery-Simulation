@@ -1,0 +1,5 @@
+Change_ID,Date,Requested_By,Change,Reason,Impact_Schedule,Impact_Scope,Impact_Risk,Decision,Owner
+CR-001,Week 5,Data Lead,Add schema validation gate,Repeated missing-value incidents,+2 days,Low,Reduced,Approved,Project Manager
+CR-002,Week 8,Engineering Lead,Move deployment hardening before UAT,Security review feedback,+1 day,Low,Reduced,Approved,Engineering Lead
+CR-003,Week 10,Product Owner,Add store-level forecast view,Improved business usability,+3 days,Medium,Medium,Approved with deferral of noncritical work,Product Owner
+CR-004,Week 13,Business SME,Add additional dashboard filter,Convenience request,+2 days,Low,Low,Deferred,Product Owner

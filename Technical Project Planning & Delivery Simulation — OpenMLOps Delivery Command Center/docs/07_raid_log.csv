@@ -1,0 +1,12 @@
+ID,Type,Description,Probability,Impact,Score,Owner,Mitigation,Status,Due
+R-001,Risk,Third-party sales feed may arrive late,3,5,15,Data Lead,Confirm contract and sample feed early,Closed,Week 4
+R-002,Risk,Limited engineering capacity during deployment phase,4,4,16,Engineering Lead,Reserve capacity and prioritize critical path,Mitigated,Week 8
+R-003,Risk,Model reproducibility is below target,3,5,15,ML Lead,Introduce required metadata and review gate,Mitigated,Week 9
+R-004,Risk,Security review delays pilot release,3,5,15,Project Manager,Book review slot before technical readiness,Mitigated,Week 12
+R-005,Risk,Business SMEs unavailable during UAT,3,4,12,Product Owner,Nominate backup SMEs and pre-book sessions,Open,Week 13
+I-001,Issue,Missing values found in historical demand feed,4,4,16,Data Lead,Add validation rule and remediation workflow,Closed,Week 6
+I-002,Issue,Deployment environment quota initially insufficient,3,4,12,Platform Engineer,Request additional capacity before pilot,Closed,Week 11
+A-001,Assumption,Kubernetes-capable environment is available for pilot,3,4,12,Engineering Lead,Validate environment during discovery,Confirmed,Week 3
+A-002,Assumption,Business users can validate pilot outputs weekly,3,3,9,Product Owner,Reserve calendar slots,Confirmed,Week 12
+D-001,Dependency,Security approval required before production-like deployment,5,5,25,Security Lead,Early design review and pre-checklist,In Progress,Week 12
+D-002,Dependency,External feed schema freeze required for UAT,4,5,20,Data Lead,Formal schema sign-off,In Progress,Week 12

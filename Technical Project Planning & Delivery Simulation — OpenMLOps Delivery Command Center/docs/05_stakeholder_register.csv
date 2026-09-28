@@ -1,0 +1,11 @@
+Stakeholder,Role,Influence,Interest,Needs,Engagement,Owner
+Chief Digital Officer,Sponsor,High,High,Strategic progress and value,Steering review,Project Manager
+Product Owner,Business owner,High,High,Forecast usability and acceptance,Weekly working session,Project Manager
+Engineering Lead,Technical lead,High,High,Feasible architecture and delivery flow,Weekly technical review,Project Manager
+ML Lead,Model owner,Medium,High,Experiment tracking and model gates,Bi-weekly deep dive,Project Manager
+Data Lead,Data owner,Medium,High,Data quality and contracts,Weekly data review,Project Manager
+Platform Engineer,Infrastructure owner,Medium,Medium,Kubernetes and deployment readiness,Weekly engineering sync,Engineering Lead
+Security Lead,Security reviewer,High,Medium,Access and deployment controls,Gate review,Project Manager
+Business SMEs,Users,Medium,High,Forecast accuracy and usability,UAT and feedback,Product Owner
+Third-party Feed Owner,External dependency,Medium,Medium,Stable data delivery,Dependency review,Data Lead
+Operations Lead,Support owner,Medium,Medium,Runbooks and handover,Go-live readiness,Project Manager

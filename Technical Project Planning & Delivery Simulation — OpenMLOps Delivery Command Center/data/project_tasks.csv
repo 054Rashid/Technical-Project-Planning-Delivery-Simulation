@@ -1,0 +1,21 @@
+ID,Workstream,Task,Owner,Start_Week,End_Week,Percent_Complete,Status,Priority,Dependency
+T001,Initiation,Project charter and success criteria,Project Manager,1,1,100,Done,High,
+T002,Initiation,Stakeholder mapping and governance,Project Manager,1,2,100,Done,High,T001
+T003,Discovery,Current-state workflow mapping,Project Manager,2,3,100,Done,High,T002
+T004,Discovery,Functional requirements,Product Owner,2,3,100,Done,High,T003
+T005,Discovery,Non-functional requirements,Engineering Lead,2,3,100,Done,High,T003
+T006,Data,Data inventory and profiling,Data Lead,3,4,100,Done,High,T004
+T007,Data,Data contracts and validation rules,Data Lead,4,6,100,Done,High,T006
+T008,ML,Baseline forecasting model,ML Lead,5,6,100,Done,High,T006
+T009,ML,Experiment tracking workflow,ML Lead,6,9,100,Done,High,T008
+T010,Features,Reusable feature definitions,Data Lead,7,9,100,Done,Medium,T007
+T011,Features,Feature lineage documentation,Data Lead,8,10,100,Done,Medium,T010
+T012,Platform,Containerize model service,Platform Engineer,8,10,100,Done,High,T009
+T013,Platform,Kubernetes deployment path,Platform Engineer,9,12,100,Done,High,T012
+T014,Security,Security readiness review,Security Lead,10,12,100,Done,High,T013
+T015,Platform,Monitoring and alerting setup,Operations Lead,11,13,100,Done,High,T013
+T016,QA,Release validation and rollback test,Engineering Lead,12,13,100,Done,High,T014
+T017,UAT,UAT execution,Product Owner,13,14,100,Done,High,T015
+T018,UAT,Business acceptance,Product Owner,14,14,100,Done,High,T017
+T019,Handover,Operations handover,Operations Lead,14,16,100,Done,High,T018
+T020,Closure,Lessons learned and closeout,Project Manager,16,16,100,Done,Medium,T019

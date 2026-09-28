@@ -1,0 +1,10 @@
+Role,Planned_Allocation_Percent,Peak_Weeks,Primary_Responsibility
+Project Manager,70,1-16,Delivery coordination governance risks and communications
+Product Owner,30,2-14,Requirements prioritization and acceptance
+Engineering Lead,50,2-13,Architecture engineering quality
+ML Lead,60,5-13,Model lifecycle and experiment tracking
+Data Lead,60,3-12,Data readiness validation and features
+Platform Engineer,50,8-13,Containers Kubernetes and deployment
+Security Lead,15,10-12,Security readiness
+Operations Lead,30,11-16,Monitoring support and handover
+Business SMEs,15,2-14,Business requirements and UAT

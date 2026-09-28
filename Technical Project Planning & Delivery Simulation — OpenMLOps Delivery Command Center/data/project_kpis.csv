@@ -1,0 +1,7 @@
+KPI,Baseline,Target,Simulated_Close,Unit,Direction
+Forecast release cycle,10,4,3.5,business days,Lower
+Manual release effort,24,10,8,engineer-hours,Lower
+Experiment reproducibility,35,95,97,percent,Higher
+Feature lineage coverage,20,90,92,percent,Higher
+Critical blockers at launch,7,2,1,count,Lower
+Forecast accuracy improvement,0,8,9.4,percent,Higher
